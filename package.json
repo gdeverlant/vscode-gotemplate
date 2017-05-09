@@ -19,7 +19,8 @@
                     "gotemplate"
                 ],
                 "extensions": [
-                    ".gotmpl"
+                    ".gotmpl",
+                    ".tmpl"
                 ],
                 "configuration": "./gotemplate.configuration.json"
             },
@@ -30,7 +31,8 @@
                     "gohtml"
                 ],
                 "extensions": [
-                    ".gohtml"
+                    ".gohtml",
+                    ".tmpl"
                 ],
                 "configuration": "./gotemplate.configuration.json"
             }

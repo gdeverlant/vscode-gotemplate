@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>gohtml</string>
+		<string>tmpl</string>
 	</array>
 	<key>name</key>
 	<string>GoSublime: HTML</string>
