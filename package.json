@@ -19,8 +19,7 @@
                     "gotemplate"
                 ],
                 "extensions": [
-                    ".gotmpl",
-                    ".tmpl"
+                    ".gotmpl"
                 ],
                 "configuration": "./gotemplate.configuration.json"
             },
@@ -31,7 +30,17 @@
                     "gohtml"
                 ],
                 "extensions": [
-                    ".gohtml",
+                    ".gohtml"
+                ],
+                "configuration": "./gotemplate.configuration.json"
+            },
+            {
+                "id": "tmpl",
+                "aliases": [
+                    "Golang HTML Template",
+                    "tmpl"
+                ],
+                "extensions": [
                     ".tmpl"
                 ],
                 "configuration": "./gotemplate.configuration.json"
@@ -47,6 +56,11 @@
                 "language": "gohtml",
                 "scopeName": "source.gohtml",
                 "path": "./syntaxes/gohtml.tmLanguage"
+            },
+            {
+                "language": "tmpl",
+                "scopeName": "source.tmpl",
+                "path": "./syntaxes/tmpl.tmLanguage"
             }
         ]
     }

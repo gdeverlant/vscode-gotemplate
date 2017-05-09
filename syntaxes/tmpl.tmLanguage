@@ -4,7 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>gohtml</string>
+		<string>tmpl</string>
 	</array>
 	<key>name</key>
 	<string>GoSublime: HTML</string>
@@ -20,8 +20,8 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.gohtml</string>
+	<string>source.tmpl</string>
 	<key>uuid</key>
-	<string>78c486ec-0101-11e2-a85a-00262d996a67</string>
+	<string>78c478ec-0101-11e2-a85a-00262d996a67</string>
 </dict>
 </plist>
